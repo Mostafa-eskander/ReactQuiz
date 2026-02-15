@@ -1,4 +1,4 @@
-import quizCompleteImg from '../assets/quiz-Complete.png';
+import quizCompleteImg from '../assets/quiz-complete.png';
 import QUSETIONS from '../questions.js';
 
 export default function Summary({ userAnswers }) {  
